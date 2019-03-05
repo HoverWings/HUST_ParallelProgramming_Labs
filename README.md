@@ -1,1 +1,1 @@
-# HUST_ParallelProgramming_Lab
+# HUST_ParallelProgramming_Labs
