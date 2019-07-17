@@ -1,6 +1,13 @@
 {
     "files.associations": {
         "limits": "c",
-        "stdlib.h": "c"
-    }
+        "stdlib.h": "c",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "iterator": "cpp"
+    },
+    "cquery.cacheDirectory": "${workspaceFolder}/.vscode/cquery_cached_index/",
+    "clang-format.language.cpp.fallbackStyle": "Google",
+    "C_Cpp.clang_format_fallbackStyle": "none",
+    "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true
 }
